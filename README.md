@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @Zhelukevich
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
+- 👋 Hi, I’m Pavel Zhelukevich
+- 👀 I’m interested in Front - end
+- 🌱 I’m currently learning in skillbox.ru
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
-
-<!---
-Zhelukevich/Zhelukevich is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
