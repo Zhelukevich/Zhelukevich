@@ -1,5 +1,4 @@
 - 👋 Hi, I’m Pavel Zhelukevich
 - 👀 I’m interested in Front - end
 - 🌱 I’m currently learning in skillbox.ru
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me [a link](https://github.com/user/repo/blob/branch/other_file.md)
