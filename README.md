@@ -5,6 +5,6 @@
 - [pashazhelukevich1@yandex.by](pashazhelukevich1@yandex.by)
 
 
-[a link](https://zhelukevich.github.io/Resume/)
+[RESUME](https://zhelukevich.github.io/Resume/)
 
  
