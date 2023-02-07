@@ -1,8 +1,8 @@
 # Hey 👋, I'm Zelukevich!
 
-<!-- <img align="right" alt="GIF" src="https://media.giphy.com/media/XE90Rm9DzCVfHb7zTe/giphy.gif" /> -->
+<img align="right" alt="GIF" src="https://media.giphy.com/media/XE90Rm9DzCVfHb7zTe/giphy.gif" />
 <!-- <img align="right" alt="GIF" src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" /> -->
-<img align="right" alt="GIF" src="https://media.giphy.com/media/cnhpl4IeYgU7MCBdV2/giphy.gif" />
+<!-- <img align="right" alt="GIF" src="https://media.giphy.com/media/cnhpl4IeYgU7MCBdV2/giphy.gif" /> -->
 
 
 <a href="https://t.me/zhelukevich" target="_blank"><img src="https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=telegram" alt="Telegram"></a>
