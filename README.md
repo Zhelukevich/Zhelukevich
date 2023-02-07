@@ -4,7 +4,6 @@
 <a href="https://www.linkedin.com/in/pavelzhelukevich/" target="_blank"><img src="https://img.shields.io/badge/-Linkedin-0088cc?style=flat-square&logo=linkedin" alt="Linkedin"></a>
 <a href="https://github.com/Zhelukevich" target="_blank"><img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github" alt="GitHub"></a>
 
-
 ## About Me
 
 I'm **Pavel Zhelukevich**, a **Front-End Developer** living in **Belarus**.
@@ -18,3 +17,24 @@ I’m interested in Front-end development since there is an opportunity to creat
 I make sure to competently complete all of the the assigned tasks and never afraid of new and challenging problems.  One of my goals for the nearest future is to master the frameworks (Vue, Angular).
 
 My strengths include teamwork skills, the desire to be able to find the most effective solutions, the ability to independently search for resources to help solve the problem.
+
+## Languages and Tools
+
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/93d8a67084f94b2a444e510199a6e7622e5b09a3/topics/dotnet/dotnet.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
+
+## Stats
+
+![zhelukevich github stats](https://github-readme-stats.vercel.app/api?username=zhelukevich&show_icons=true&hide_border=false&theme=tokyonight&count_private=true&hide_title=false)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zhelukevich&hide=html&theme=tokyonight&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+<!--
+**zhelukevich/zhelukevich** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
