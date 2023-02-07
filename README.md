@@ -1,9 +1,5 @@
-- 👋 Hi, I’m Pavel Zhelukevich
-- 👀 I’m interested in Front - end
-- 📫 How to reach me [<img widht="20" height="20" src="https://user-images.githubusercontent.com/100149928/195886673-d9189b0c-3804-4636-a142-08d380fc29ba.png">](https://t.me/zhelukevich)  [<img widht="20" height="20" src="https://user-images.githubusercontent.com/100149928/195888049-ac5fb6b3-1b26-43bd-90ba-d5076c1b4165.png">](https://join.skype.com/invite/zkDRcgWXSFDP) [<img widht="20" height="20" src="https://user-images.githubusercontent.com/100149928/195888938-d0e74ec1-0788-46d6-a93c-73a577a7da15.png">](https://www.linkedin.com/in/pavelzhelukevich/)
-- [pashazhelukevich1@yandex.by](pashazhelukevich1@yandex.by)
+# Hey 👋, I'm Zelukevich!
 
-
-[RESUME](https://zhelukevich.github.io/Resume/)
-
- 
+<a href="https://t.me/zhelukevich" target="_blank"><img src="https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=telegram" alt="Telegram"></a>
+<a href="https://www.linkedin.com/in/pavelzhelukevich/" target="_blank"><img src="https://img.shields.io/badge/-Linkedin-0088cc?style=flat-square&logo=linkedin" alt="Linkedin"></a>
+<a href="https://github.com/Zhelukevich" target="_blank"><img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github" alt="GitHub"></a>
