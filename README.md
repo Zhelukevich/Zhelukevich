@@ -1,6 +1,6 @@
 # Hey 👋, I'm Zelukevich!
 
-<img align="right" alt="GIF" src="https://media.giphy.com/media/XE90Rm9DzCVfHb7zTe/giphy.gif" />
+<!-- <img align="right" alt="GIF" src="https://media.giphy.com/media/XE90Rm9DzCVfHb7zTe/giphy.gif" /> -->
 <!-- <img align="right" alt="GIF" src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" /> -->
 <!-- <img align="right" alt="GIF" src="https://media.giphy.com/media/cnhpl4IeYgU7MCBdV2/giphy.gif" /> -->
 
@@ -10,6 +10,7 @@
 <a href="https://join.skype.com/invite/zkDRcgWXSFDP" target="_blank"><img src="https://img.shields.io/badge/-Skype-0088cc?style=flat-square&logo=skype" alt="Skype"></a>
 
 ## About Me
+<img align="right" alt="GIF" src="https://media.giphy.com/media/ZDTbix65Me1YDNLDF3/giphy.gif"/>
 
 I'm **Pavel Zhelukevich**, a **Front-End Developer** living in **Belarus**.
 
