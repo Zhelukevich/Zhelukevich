@@ -24,7 +24,7 @@ I make sure to competently complete all of the the assigned tasks and never afra
 
 My strengths include teamwork skills, the desire to be able to find the most effective solutions, the ability to independently search for resources to help solve the problem.
 
-## Languages and Tools
+## Tech Stack
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
