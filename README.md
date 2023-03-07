@@ -1,4 +1,4 @@
-# Hey 👋, I'm Zelukevich! 🦔
+# Hey 👋, I'm Pavel Zelukevich! 🦔
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/XE90Rm9DzCVfHb7zTe/giphy.gif" />
 <!-- <img align="right" alt="GIF" src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" /> -->
