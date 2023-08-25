@@ -14,9 +14,7 @@
 
 I'm **Pavel Zhelukevich**, a **Front-End Developer** living in **Belarus**.
 
-I am a beginner at frontend developing.
-
-I have an over six months experience in website development.
+I have over a year of experience in website development.
 
 I’m interested in Front-end development since there is an opportunity to create appealing sites with  user-friendly interfaces.
 
