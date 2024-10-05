@@ -14,13 +14,7 @@
 
 I'm **Pavel Zhelukevich**, a **Front-End Developer** living in **Belarus**.
 
-I have over a year of experience in website development.
-
-I’m interested in Front-end development since there is an opportunity to create appealing sites with  user-friendly interfaces.
-
-I make sure to competently complete all of the the assigned tasks and never afraid of new and challenging problems.  One of my goals for the nearest future is to master the frameworks (Vue, Angular).
-
-My strengths include teamwork skills, the desire to be able to find the most effective solutions, the ability to independently search for resources to help solve the problem.
+**There are no new publications because I am on a work account**
 
 ## Tech Stack
 
